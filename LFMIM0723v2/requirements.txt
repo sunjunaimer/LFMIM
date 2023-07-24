@@ -1,6 +1,4 @@
-matplotlib==3.5.2
 numpy==1.21.5
-pytorch_lightning==1.8.2
 scikit_learn==1.2.2
 torch==1.12.1+cu113
 torchmetrics==0.10.3
